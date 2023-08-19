@@ -1,0 +1,20 @@
+.splash-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.splash-title h1 {
+  font-size: 24px;
+  text-align: center;
+}
+#mapContainer {
+  height: 50vh;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+#map {
+  width: 100%;
+  height: 100%;
+}
